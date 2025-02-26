@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Carlos López</h1>
 <h3 align="center">I'm from Colombia and i'm up to learn and work in everithing that comes.</h3>
-- 🌱 I’m currently learning **Springboot,Angular,Elysia.js and React**
 
 - 📫 How to reach me **carlosgablopezm@gmail.com**
 - ⚡ My interest are **Web and mobile development**
